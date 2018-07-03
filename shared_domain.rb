@@ -1,1 +1,0 @@
-distinglish/shared_domain.rb
